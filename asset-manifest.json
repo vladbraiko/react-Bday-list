@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-Bday-list/static/css/main.9e5e59c3.chunk.css",
+    "main.js": "/react-Bday-list/static/js/main.0cbc4d15.chunk.js",
+    "main.js.map": "/react-Bday-list/static/js/main.0cbc4d15.chunk.js.map",
+    "runtime-main.js": "/react-Bday-list/static/js/runtime-main.584858b9.js",
+    "runtime-main.js.map": "/react-Bday-list/static/js/runtime-main.584858b9.js.map",
+    "static/js/2.21b77cc7.chunk.js": "/react-Bday-list/static/js/2.21b77cc7.chunk.js",
+    "static/js/2.21b77cc7.chunk.js.map": "/react-Bday-list/static/js/2.21b77cc7.chunk.js.map",
+    "index.html": "/react-Bday-list/index.html",
+    "precache-manifest.1ed566808e3a60906727f0f49225aa6a.js": "/react-Bday-list/precache-manifest.1ed566808e3a60906727f0f49225aa6a.js",
+    "service-worker.js": "/react-Bday-list/service-worker.js",
+    "static/css/main.9e5e59c3.chunk.css.map": "/react-Bday-list/static/css/main.9e5e59c3.chunk.css.map",
+    "static/js/2.21b77cc7.chunk.js.LICENSE.txt": "/react-Bday-list/static/js/2.21b77cc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.584858b9.js",
+    "static/js/2.21b77cc7.chunk.js",
+    "static/css/main.9e5e59c3.chunk.css",
+    "static/js/main.0cbc4d15.chunk.js"
+  ]
+}
