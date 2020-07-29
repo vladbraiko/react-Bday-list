@@ -19,15 +19,13 @@ class App extends Component {
 
   makeTransformedDataTemplate() {
     const options = { month: 'long' };
-    const emptyArray = new Array(12);
+    const template = [];
 
-    return [...emptyArray].map((item, i) => {
+    for (let i = 0; i <= 11; i += 1) {
       const month = new Date(0, i).toLocaleString(0, options);
-      return {
-        month,
-        users: [],
-      };
-    });
+      template.push({ month, users: [] });
+    }
+    return template;
   }
 
   transformData(users) {
